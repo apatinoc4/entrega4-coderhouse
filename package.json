@@ -1,0 +1,16 @@
+{
+  "name": "entrega4",
+  "version": "1.0.0",
+  "description": "entrega 4 coderHouser",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test",
+    "start": "nodemon app.js"
+  },
+  "author": "apatinoc4",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.18"
+  }
+}
